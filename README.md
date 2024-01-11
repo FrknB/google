@@ -1,3 +1,3 @@
 # google
 
-## live -> https://github-google-page.netlify.app
+## live -> https://clone-google-page.netlify.app
